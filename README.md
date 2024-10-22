@@ -66,9 +66,10 @@ To run this project, you'll need Python and the required libraries. Follow the s
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Emotion-Prediction-Using-Machine-Learning.git
-   cd Emotion-Prediction-Using-Machine-Learning
    ```
-
+    ```bash
+cd Emotion-Prediction-Using-Machine-Learning
+```
 2. **Install dependencies**:
    Create a virtual environment (optional) and install the required packages using the `requirements.txt` file.
    ```bash
